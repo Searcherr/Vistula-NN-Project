@@ -1,0 +1,13 @@
+The project should be done in pairs.
+The following topics are available for selection (please choose one of them):
+
+1) Implementation of convolutional neural network in Keras and analysis of its performance on selected
+images.
+
+2) Q-learning algorithm with a neural network (implemented in Keras) as a representation of the
+Q-function.
+
+3) A variational autoencoder that generates images basing on the MNIST dataset.
+
+For the selected topic, provide a program and write a short report, analyzing the obtained results.
+
