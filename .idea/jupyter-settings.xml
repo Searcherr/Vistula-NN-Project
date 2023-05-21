@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="local" value="true" />
+          <option name="token" value="242d7d26d1998b70f15a73068fc70519111cd5a6dd61e2ab" />
+          <option name="urlString" value="http://localhost:1234" />
+          <authParams2>
+            <map>
+              <entry key="token" value="242d7d26d1998b70f15a73068fc70519111cd5a6dd61e2ab" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/.idea/searcherr.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="local" value="true" />
+              <option name="token" value="242d7d26d1998b70f15a73068fc70519111cd5a6dd61e2ab" />
+              <option name="urlString" value="http://localhost:1234" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="242d7d26d1998b70f15a73068fc70519111cd5a6dd61e2ab" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Coding/Python-for-AI---Vistula-Univercity/.idea/Python-for-AI---Vistula-Univercity.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/Vistula NN Project.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

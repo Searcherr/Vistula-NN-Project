@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dataset/.idea/Dataset.iml" filepath="$PROJECT_DIR$/Dataset/.idea/Dataset.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Vistula NN Project.iml" filepath="$PROJECT_DIR$/.idea/Vistula NN Project.iml" />
     </modules>
   </component>
